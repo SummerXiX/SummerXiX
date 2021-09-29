@@ -1,5 +1,5 @@
 <div align="center"> 
-👩🏻‍💻 Hello, I'm Summer Xing 👩🏻‍�
+👩🏻‍💻 Hello, I'm Summer Xing 👩🏻‍
 
 💻 I'm a financial analyst turned full-stack software engineer based out of New York City, NY. 
 
