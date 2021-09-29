@@ -13,6 +13,7 @@
 [website]: https://bradgarropy.com
 [linkedin]: https://linkedin.com/in/summerxing
 
+<hr>
 <div>
       <h3>Proficiencies:</h3>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
