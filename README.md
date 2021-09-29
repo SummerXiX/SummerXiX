@@ -1,6 +1,7 @@
 Hello, I'm Summer Xing 👩🏻‍💻
 
 💻 I'm a financial analyst turned full-stack software engineer based out of New York City, NY. 
+
 👨🏼‍💻 building [summerxing.com][website]  
 🧠 learning [algorithm and data structure in JavaScript][educative] 
 
