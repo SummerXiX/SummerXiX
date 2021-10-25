@@ -4,7 +4,7 @@
 
 💻 I'm a financial analyst turned full-stack software engineer based out of New York City, NY. 
 
-🧠 (Re)Learning [algorithm and data structure in JavaScript][educative] 
+🧠 (Re)Learning Java & [algorithm and data structure in JavaScript][educative] 
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
